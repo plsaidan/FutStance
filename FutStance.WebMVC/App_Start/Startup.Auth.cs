@@ -6,6 +6,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using FutStance.WebMVC.Models;
+using FutStance.Data;
 
 namespace FutStance.WebMVC
 {

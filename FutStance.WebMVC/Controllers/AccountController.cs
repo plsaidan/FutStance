@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using FutStance.WebMVC.Models;
+using FutStance.Data;
 
 namespace FutStance.WebMVC.Controllers
 {
